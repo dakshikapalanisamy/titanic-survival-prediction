@@ -1,1 +1,15 @@
-# Titanic Survival Prediction  Machine learning model to predict passenger survival on the Titanic.  ## Approach - Cleaned missing data (Age, Fare, Embarked) - Converted categorical features to numerical - Trained Random Forest classifier - Achieved ~[YOUR ACCURACY]% accuracy  ## Tools - Python, Pandas, Scikit-learn  ## Dataset Kaggle Titanic competition
+# Titanic Survival Prediction
+
+Machine learning model to predict passenger survival on the Titanic.
+
+## Approach
+- Cleaned missing data (Age, Fare, Embarked)
+- Converted categorical features to numerical
+- Trained Random Forest classifier
+- Achieved ~[YOUR ACCURACY]% accuracy
+
+## Tools
+- Python, Pandas, Scikit-learn
+
+## Dataset
+Kaggle Titanic competition
