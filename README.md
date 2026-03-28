@@ -6,7 +6,6 @@ Machine learning model to predict passenger survival on the Titanic.
 - Cleaned missing data (Age, Fare, Embarked)
 - Converted categorical features to numerical
 - Trained Random Forest classifier
-- Achieved ~[YOUR ACCURACY]% accuracy
 
 ## Tools
 - Python, Pandas, Scikit-learn
